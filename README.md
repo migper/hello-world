@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+This my attempt to build a Git library
